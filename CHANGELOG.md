@@ -1,5 +1,15 @@
 # Changelog
 
+## [2025.9.26](https://github.com/jdx/mise/compare/v2025.9.25..v2025.9.26) - 2025-09-30
+
+### 📦 Registry
+
+- add code by @TyceHerrman in [#6492](https://github.com/jdx/mise/pull/6492)
+
+### 🐛 Bug Fixes
+
+- **(set)** allow --prompt flag to work with `mise set` by @jdx in [#6485](https://github.com/jdx/mise/pull/6485)
+
 ## [2025.9.25](https://github.com/jdx/mise/compare/v2025.9.24..v2025.9.25) - 2025-09-30
 
 ### 📦 Registry
